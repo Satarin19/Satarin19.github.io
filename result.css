@@ -1,0 +1,26 @@
+h2{
+    text-align: center;
+    color: #ffffff;
+}
+body{
+    background-color:#020202;
+}
+nav{
+  text-align:center;    
+}
+nav a{
+		background-color: rgba(218,234,213,0.60);
+		color: #ffffff; 
+		display: inline-block;
+		padding: 5px;
+		margin: 1%; 
+		text-decoration: none; 
+		border-radius: 5px; 
+}
+form{
+    display:inline-block;
+    font-family: serif;
+    font:Arial;
+    text-align: justify;
+    color:white;
+}
